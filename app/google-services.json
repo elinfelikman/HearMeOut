@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "57345635285",
+    "project_id": "hearmeout-elin",
+    "storage_bucket": "hearmeout-elin.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:57345635285:android:32d7295a15fcdd8809035c",
+        "android_client_info": {
+          "package_name": "com.example.hearmeout"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfbfo1rreTLsWAw1OEL5EpOgSLyHjT240"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
